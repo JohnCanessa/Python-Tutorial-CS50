@@ -8,3 +8,8 @@ https://www.youtube.com/watch?v=aennIqXu5uI
 
 For comments and insights on the code you can read a post in my blog using the following link:
 
+https://www.johncanessa.com/2020/04/23/python-tutorial-cs50/
+
+Enjoy;
+
+John
